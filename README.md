@@ -1,5 +1,5 @@
-# Relationships between the timbre of songs and their year
-## Machine Learning Project in Julia
+# Machine Learning Project in Julia
+##  Relationships between the timbre of songs and their year
 
 This project is a Julia scripts where we implement the simplest ML models; ***ANN, SVM, kNN, Decision Tree and an Ensemble model of the previous***,  using different songs between 1996 and 2010 selected from: 
 [Dataset](https://archive.ics.uci.edu/dataset/203/yearpredictionmsd). This is part of a Final Project of a Master in AI subject. 
